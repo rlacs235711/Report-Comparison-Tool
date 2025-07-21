@@ -1,0 +1,1567 @@
+,Exam Type,V1 - resident,V2 - attending,ChatGPT Prompt for V1,ChatGPT Prompt for V2,Notes
+1,CT Abdomen and Pelvis with IV contrast,"CLINICAL HISTORY: Right lower quadrant pain
+
+TECHNIQUE: CT of the abdomen and pelvis with intravenous contrast
+
+COMPARISON: CT abdomen and pelvis from 1 year ago
+
+FINDINGS:
+Lung Bases: Unremarkable.
+
+Liver: The liver demonstrates a heterogeneous lesion in the right hepatic lobe measuring 4.2 x 3.8 cm, consistent with a hepatic adenoma. This lesion was smaller on prior imaging, previously measuring 2.5 x 2.0 cm, indicating interval growth. There is associated mild contour nodularity suggesting early chronic changes. 
+
+Biliary System: Multiple gallstones are present within the gallbladder, consistent with cholelithiasis. Intrahepatic bile ducts are dilated with the largest duct measuring up to 6 mm in diameter. The common bile duct is dilated, now measuring 12 mm in diameter compared to 8 mm on the prior study, reflecting interval worsening. No definite obstructing mass is identified.
+
+Pancreas: The pancreas demonstrates an ill-defined hypodense area involving the pancreatic tail measuring approximately 3.7 x 2.9 cm, consistent with complex pancreatitis. There is surrounding inflammatory stranding and an adjacent phlegmon measuring approximately 4.5 x 3.1 cm. No discrete fluid collection is identified.
+
+Spleen: Unremarkable.
+
+Adrenals: Unremarkable.
+
+Kidneys: Unremarkable.
+
+Pelvis/Bladder: The uterus is enlarged with multiple fibroids, the largest located in the anterior fundal region measuring 5.4 x 4.8 cm. There is a left adnexal cystic lesion measuring 4.2 x 3.9 x 4.0 cm, likely representing an ovarian cyst. No solid components or septations are identified.
+
+Bowel: No evidence of obstruction. No bowel wall thickening is identified. The appendix is unremarkable.
+
+Mesentery/Peritoneum: No ascites. No abnormal focal fluid collections. No free air.
+
+Nodes: No lymphadenopathy.
+
+Bones & Soft tissues: Degenerative changes of the spine. No aggressive osseous lesion.
+
+IMPRESSION:
+1. Interval growth of right hepatic lobe adenoma, now measuring 4.2 x 3.8 cm, with associated mild contour irregularity. 
+2. Worsening cholelithiasis with new or progressive intrahepatic and common bile duct dilation, CBD now measuring up to 12 mm.
+3. Complex pancreatitis involving the pancreatic tail with adjacent phlegmon.
+4. Enlarged fibroid uterus with largest fibroid measuring 5.4 x 4.8 cm.
+5. Left adnexal cystic lesion measuring 4.2 x 3.9 x 4.0 cm, likely ovarian in etiology.
+","CLINICAL HISTORY: Right lower quadrant pain
+
+TECHNIQUE: CT of the abdomen and pelvis with intravenous contrast
+
+COMPARISON: CT abdomen and pelvis from 1 year ago
+
+FINDINGS:
+Lung Bases: No focal consolidation. Scattered subcentimeter nodules likely incidental.
+
+Liver: Interval enlargement of a right hepatic lobe lesion, now measuring 4.2 x 3.8 cm, consistent with a hepatic adenoma. Mild surface nodularity is noted.
+
+Biliary System: Multiple gallstones within the gallbladder. Intrahepatic ducts and common bile duct are dilated, CBD now measuring 12 mm, previously 8 mm.
+
+Pancreas: Complex inflammatory changes and ill-defined low-attenuation area in the pancreatic tail measuring 3.7 x 2.9 cm. Adjacent phlegmon measuring 4.5 x 3.1 cm.
+
+Spleen: Normal.
+
+Adrenals: Normal.
+
+Kidneys: Normal.
+
+Bladder: Normal.
+
+Bowel: No obstruction. No bowel wall thickening.
+
+Mesentery/Peritoneum: No free air. No abnormal collections.
+
+Nodes: No lymphadenopathy.
+
+Bones & Soft tissues: Degenerative changes noted.
+
+IMPRESSION:
+
+Enlargement of right hepatic lobe adenoma with associated mild surface irregularity.
+
+Worsening biliary duct dilation in the setting of cholelithiasis.
+
+Findings consistent with complex pancreatitis in the pancreatic tail and adjacent phlegmon.
+
+Fibroid uterus with the largest fibroid measuring 5.4 x 4.8 cm.
+
+Left adnexal cystic lesion measuring 4.2 x 3.9 x 4.0 cm.","Generate a fake CT abdomen and pelvis report with contrast with [abnormal liver findings (adenoma) and cholelithiasis with dilated intrahepatic bile ducts and CBD]. [Also complex pancreatitis in the tail and adjacent phelgmon. Findings in the pelvis with multiple fibroids and left adnexal cystic lesion (create measurements)]
+
+1. DO NOT use markdown formatting and put in markdown block
+
+2. Create in paragraph form -- no bullet points
+
+3. Compare with prior study 1 year ago and describe how the liver and gallbladder findings are worse.
+
+Format using this template:
+
+CLINICAL HISTORY: [Right lower quadrant pain]
+
+TECHNIQUE: CT of the abdomen and pelvis [with] intravenous contrast
+
+COMPARISON: [None]
+
+FINDINGS:
+Lung Bases: [Unremarkable.]
+
+Liver: [Unremarkable.]
+
+Biliary System: [Unremarkable.]
+
+Pancreas: [Unremarkable.]
+
+Spleen: [Unremarkable.]
+
+Adrenals: [Unremarkable.]
+
+Kidneys: [Unremarkable.]
+
+Pelvis/Bladder: [Unremarkable.]
+
+Bowel: [No evidence of obstruction. No bowel wall thickening is identified. The appendix is unremarkable.]
+
+Mesentery/Peritoneum: [No ascites. No abnormal focal fluid collections. No free air.]
+
+Nodes: [No lymphadenopathy.]
+
+Bones & Soft tissues: [Degenerative changes of the spine. No aggressive osseous lesion.]
+
+IMPRESSION:
+[Normal CT scan of the abdomen and pelvis.]",,Pancreatitis + probable choledocholithiasis
+2,CT Abdomen and Pelvis with IV contrast,"CLINICAL HISTORY: Right lower quadrant pain
+
+TECHNIQUE: CT of the abdomen and pelvis with intravenous contrast
+
+COMPARISON: CT abdomen and pelvis from 1 year ago
+
+FINDINGS:
+Lung Bases: Unremarkable.
+
+Liver: The liver shows mild contour irregularity with subtle periportal edema, findings not seen on the prior study. No focal hepatic lesions are identified. These changes may reflect evolving chronic liver disease.
+
+Biliary System: Multiple gallstones are present within the gallbladder, consistent with cholelithiasis. There is no gallbladder wall thickening or pericholecystic fluid to suggest acute cholecystitis. Compared to the prior study, there is increased prominence of pericholecystic fat stranding, suggesting interval worsening of gallbladder pathology, although no acute inflammatory signs are present.
+
+Pancreas: A well-defined cystic lesion is identified in the head of the pancreas measuring approximately 2.8 x 2.3 cm, which was not visualized on the prior exam. The lesion appears simple in nature, without solid components or septations.
+
+Spleen: Unremarkable.
+
+Adrenals: Unremarkable.
+
+Kidneys: Unremarkable.
+
+Pelvis/Bladder: The bladder is unremarkable. A moderate volume loculated fluid collection is identified in the right lower quadrant extending into the pelvis, measuring approximately 5.7 x 4.9 x 6.2 cm, consistent with a periappendiceal abscess secondary to ruptured appendicitis. The collection demonstrates peripheral rim enhancement and internal gas locules. The appendix is not clearly visualized, consistent with interval rupture.
+
+Bowel: No evidence of obstruction. No other bowel wall thickening is identified.
+
+Mesentery/Peritoneum: Mild inflammatory stranding is present surrounding the aforementioned right lower quadrant collection. No free air is identified outside this loculated process. No additional abnormal fluid collections are seen.
+
+Nodes: No lymphadenopathy.
+
+Bones & Soft tissues: Degenerative changes of the spine. No aggressive osseous lesion.
+
+IMPRESSION:
+1. Ruptured appendicitis with a periappendiceal abscess measuring approximately 5.7 x 4.9 x 6.2 cm, containing gas locules and surrounded by inflammatory changes.
+2. Cholelithiasis without definitive evidence of acute cholecystitis; however, interval worsening of pericholecystic fat stranding compared to prior study suggests progression of gallbladder disease.
+3. Newly identified cystic lesion in the pancreatic head measuring 2.8 x 2.3 cm, likely representing a pancreatic cyst.
+4. Mild contour irregularity and periportal edema in the liver, not previously noted, concerning for early chronic liver changes.","CLINICAL HISTORY: Right lower quadrant pain
+
+TECHNIQUE: CT of the abdomen and pelvis with intravenous contrast
+
+COMPARISON: CT abdomen and pelvis from 1 year ago
+
+FINDINGS:
+Lung Bases: No focal consolidation.
+
+Liver: Mild periportal edema not seen previously. No focal lesions.
+
+Biliary System: Cholelithiasis with increased pericholecystic fat stranding compared to prior.
+
+Pancreas: New 2.8 x 2.3 cm cystic lesion in the pancreatic head.
+
+Spleen: Normal.
+
+Adrenals: Normal.
+
+Kidneys: Incidental 3.5 x 3.2 cm mass in the upper pole of the right kidney.
+
+Pelvis/Bladder: Periappendiceal abscess measuring 5.7 x 4.9 x 6.2 cm.
+
+Bowel: No obstruction.
+
+Mesentery/Peritoneum: No free air.
+
+Nodes: No lymphadenopathy.
+
+Bones & Soft tissues: Degenerative changes noted.
+
+IMPRESSION:
+
+Ruptured appendicitis with abscess formation.
+
+Incidental right renal mass requiring further evaluation.
+
+Pancreatic head cystic lesion.
+
+Mild new periportal edema.","Generate a fake CT abdomen and pelvis report with contrast with [ruptured appendicitis (create measurements of a loculated collection from the rupture)]. [Also cholelithiasis without evidence of cholecystitis. Also a cystic lesion in the pancreatic head. 
+
+1. DO NOT use markdown formatting and put in markdown block
+
+2. Create in paragraph form -- no bullet points
+
+3. Compare with prior study 1 year ago and describe how the liver and gallbladder findings are worse.
+
+Format using this template:
+
+CLINICAL HISTORY: [Right lower quadrant pain]
+
+TECHNIQUE: CT of the abdomen and pelvis [with] intravenous contrast
+
+COMPARISON: [None]
+
+FINDINGS:
+Lung Bases: [Unremarkable.]
+
+Liver: [Unremarkable.]
+
+Biliary System: [Unremarkable.]
+
+Pancreas: [Unremarkable.]
+
+Spleen: [Unremarkable.]
+
+Adrenals: [Unremarkable.]
+
+Kidneys: [Unremarkable.]
+
+Pelvis/Bladder: [Unremarkable.]
+
+Bowel: [No evidence of obstruction. No bowel wall thickening is identified. The appendix is unremarkable.]
+
+Mesentery/Peritoneum: [No ascites. No abnormal focal fluid collections. No free air.]
+
+Nodes: [No lymphadenopathy.]
+
+Bones & Soft tissues: [Degenerative changes of the spine. No aggressive osseous lesion.]
+
+IMPRESSION:
+[Normal CT scan of the abdomen and pelvis.]",,Ruptured appendicitis
+3,CT Abdomen and Pelvis with IV contrast,"CLINICAL HISTORY: Left lower quadrant pain
+
+TECHNIQUE: CT of the abdomen and pelvis with intravenous contrast
+
+COMPARISON: None
+
+FINDINGS:
+Lung Bases: Normal.
+
+Liver: Normal.
+
+Biliary System: Normal.
+
+Pancreas: Normal.
+
+Spleen: Normal.
+
+Adrenals: Normal.
+
+Kidneys: Normal.
+
+Pelvis/Bladder: Normal.
+
+Bowel: Focal thickening of sigmoid colon over 6 cm, pericolic fat stranding and diverticula.
+
+Mesentery/Peritoneum: No ascites.
+
+Nodes: No lymphadenopathy.
+
+Bones & Soft tissues: Degenerative changes.
+
+IMPRESSION:
+
+Uncomplicated sigmoid diverticulitis.","CLINICAL HISTORY: Left lower quadrant pain
+
+TECHNIQUE: CT of the abdomen and pelvis with intravenous contrast
+
+COMPARISON: None
+
+FINDINGS:
+Lung Bases: Unremarkable.
+
+Liver: Unremarkable.
+
+Biliary System: Unremarkable.
+
+Pancreas: Unremarkable.
+
+Spleen: Unremarkable.
+
+Adrenals: Unremarkable.
+
+Kidneys: Unremarkable.
+
+Pelvis/Bladder: Unremarkable.
+
+Bowel: There is focal segmental thickening of the sigmoid colon measuring approximately 6 cm in length, with associated pericolic fat stranding and several small diverticula, consistent with uncomplicated diverticulitis. No evidence of abscess, perforation, or free air is identified. The appendix is unremarkable.
+
+Mesentery/Peritoneum: No ascites. No abnormal focal fluid collections. No free air.
+
+Nodes: No lymphadenopathy.
+
+Bones & Soft tissues: Degenerative changes of the spine. No aggressive osseous lesion.
+
+IMPRESSION:
+Findings consistent with uncomplicated sigmoid diverticulitis without evidence of abscess or perforation.","Generate a fake CT abdomen and pelvis report with contrast with [non ruptured diverticulitis]. 
+
+1. DO NOT use markdown formatting and put in markdown block
+
+2. Create in paragraph form -- no bullet points
+
+Format using this template:
+
+CLINICAL HISTORY: [Left lower quadrant pain]
+
+TECHNIQUE: CT of the abdomen and pelvis [with] intravenous contrast
+
+COMPARISON: [None]
+
+FINDINGS:
+Lung Bases: [Unremarkable.]
+
+Liver: [Unremarkable.]
+
+Biliary System: [Unremarkable.]
+
+Pancreas: [Unremarkable.]
+
+Spleen: [Unremarkable.]
+
+Adrenals: [Unremarkable.]
+
+Kidneys: [Unremarkable.]
+
+Pelvis/Bladder: [Unremarkable.]
+
+Bowel: [No evidence of obstruction. No bowel wall thickening is identified. The appendix is unremarkable.]
+
+Mesentery/Peritoneum: [No ascites. No abnormal focal fluid collections. No free air.]
+
+Nodes: [No lymphadenopathy.]
+
+Bones & Soft tissues: [Degenerative changes of the spine. No aggressive osseous lesion.]
+
+IMPRESSION:
+[Normal CT scan of the abdomen and pelvis.]",,Uncomplicated diverticulitis
+4,CT Abdomen and Pelvis with IV contrast,"CLINICAL HISTORY: Left lower quadrant pain
+
+TECHNIQUE: CT of the abdomen and pelvis with intravenous contrast
+
+COMPARISON: None
+
+FINDINGS:
+Lung Bases: Normal.
+
+Liver: Normal aside from simple cysts.
+
+Biliary System: Normal.
+
+Pancreas: Normal.
+
+Spleen: Normal.
+
+Adrenals: Normal.
+
+Kidneys: Simple renal cyst noted.
+
+Pelvis/Bladder: Loculated left lower quadrant collection measuring 5.9 x 4.8 x 6.3 cm.
+
+Bowel: Focal sigmoid thickening.
+
+Mesentery/Peritoneum: No free air.
+
+Nodes: No lymphadenopathy.
+
+Bones & Soft tissues: Degenerative changes.
+
+IMPRESSION:
+
+Ruptured diverticulitis with abscess.
+
+Incidental left renal cyst.","CLINICAL HISTORY: Left lower quadrant pain
+
+TECHNIQUE: CT of the abdomen and pelvis with intravenous contrast
+
+COMPARISON: None
+
+FINDINGS:
+Lung Bases: Unremarkable.
+
+Liver: Unremarkable.
+
+Biliary System: Unremarkable.
+
+Pancreas: Unremarkable.
+
+Spleen: Unremarkable.
+
+Adrenals: Unremarkable.
+
+Kidneys: An incidental heterogeneous enhancing mass is noted in the upper pole of the right kidney, measuring approximately 3.5 x 3.2 cm. This finding was not previously documented and will require further evaluation with dedicated imaging or urologic consultation. The left kidney is unremarkable.
+
+Pelvis/Bladder: Unremarkable.
+
+Bowel: There is focal segmental thickening of the sigmoid colon measuring approximately 8 cm in length with associated numerous diverticula. Surrounding inflammatory stranding is present. Adjacent to this segment, in the left lower quadrant, there is a loculated fluid collection measuring approximately 5.9 x 4.8 x 6.3 cm with peripheral rim enhancement and internal gas locules, consistent with an abscess due to ruptured diverticulitis. The appendix is unremarkable.
+
+Mesentery/Peritoneum: Inflammatory changes surrounding the aforementioned collection are noted. No free intraperitoneal air is identified. No other abnormal focal fluid collections are seen.
+
+Nodes: No lymphadenopathy.
+
+Bones & Soft tissues: Degenerative changes of the spine. No aggressive osseous lesion.
+
+IMPRESSION:
+Findings consistent with ruptured sigmoid diverticulitis with associated loculated left lower quadrant abscess measuring approximately 5.9 x 4.8 x 6.3 cm. Incidental right renal mass measuring approximately 3.5 x 3.2 cm, recommend further evaluation with dedicated imaging and urologic consultation.","Generate a fake CT abdomen and pelvis report with contrast with [ruptured diverticulitis (measure a loculated collection)]. Patient also has incidental renal mass that will need workup. 
+
+1. DO NOT use markdown formatting and put in markdown block
+
+2. Create in paragraph form -- no bullet points
+
+Format using this template:
+
+CLINICAL HISTORY: [Left lower quadrant pain]
+
+TECHNIQUE: CT of the abdomen and pelvis [with] intravenous contrast
+
+COMPARISON: [None]
+
+FINDINGS:
+Lung Bases: [Unremarkable.]
+
+Liver: [Unremarkable.]
+
+Biliary System: [Unremarkable.]
+
+Pancreas: [Unremarkable.]
+
+Spleen: [Unremarkable.]
+
+Adrenals: [Unremarkable.]
+
+Kidneys: [Unremarkable.]
+
+Pelvis/Bladder: [Unremarkable.]
+
+Bowel: [No evidence of obstruction. No bowel wall thickening is identified. The appendix is unremarkable.]
+
+Mesentery/Peritoneum: [No ascites. No abnormal focal fluid collections. No free air.]
+
+Nodes: [No lymphadenopathy.]
+
+Bones & Soft tissues: [Degenerative changes of the spine. No aggressive osseous lesion.]
+
+IMPRESSION:
+[Normal CT scan of the abdomen and pelvis.]",,Ruptured diverticulitis + incidental renal mass
+5,CT Abdomen and Pelvis with IV contrast,"CLINICAL HISTORY: Back pain
+
+TECHNIQUE: CT of the abdomen and pelvis with intravenous contrast
+
+COMPARISON: None
+
+FINDINGS:
+Lung Bases: No consolidation.
+
+Liver: Simple hepatic cysts.
+
+Biliary System: Normal.
+
+Pancreas: Normal.
+
+Spleen: Normal.
+
+Adrenals: Normal.
+
+Kidneys: Normal.
+
+Pelvis/Bladder: Normal.
+
+Bowel: Normal.
+
+Mesentery/Peritoneum: No free air.
+
+Nodes: No lymphadenopathy.
+
+Bones & Soft tissues: L3-L4 endplate irregularity and disc space narrowing. Bilateral psoas collections, largest 5.5 x 3.8 x 6.0 cm on right.
+
+IMPRESSION:
+
+Discitis/osteomyelitis at L3-L4.
+
+Bilateral psoas abscesses.
+
+Incidental hepatic cysts.","CLINICAL HISTORY: Back pain
+
+TECHNIQUE: CT of the abdomen and pelvis with intravenous contrast
+
+COMPARISON: None
+
+FINDINGS:
+Lung Bases: Unremarkable.
+
+Liver: The liver is unremarkable aside from a few small simple cysts, the largest measuring 1.2 cm in segment VI, which are likely benign incidental findings.
+
+Biliary System: Unremarkable.
+
+Pancreas: Unremarkable.
+
+Spleen: Unremarkable.
+
+Adrenals: Unremarkable.
+
+Kidneys: The kidneys are unremarkable except for a small non-obstructing calculus in the lower pole of the left kidney measuring approximately 3 mm, incidental and not associated with hydronephrosis.
+
+Pelvis/Bladder: Unremarkable.
+
+Bowel: No evidence of obstruction. No bowel wall thickening is identified. The appendix is unremarkable.
+
+Mesentery/Peritoneum: No ascites. No abnormal focal fluid collections. No free air.
+
+Nodes: No lymphadenopathy.
+
+Bones & Soft tissues: There are concerning findings involving the lumbar spine. L3 and L4 vertebral bodies demonstrate endplate irregularity and loss of disc space height at the L3-L4 level with associated prevertebral soft tissue prominence. These findings raise concern for discitis and osteomyelitis. Adjacent to this area, there are bilateral psoas muscle collections identified, the largest on the right measuring approximately 5.5 x 3.8 x 6.0 cm and on the left measuring approximately 4.1 x 3.2 x 4.8 cm, both demonstrating rim enhancement consistent with psoas abscesses. There are degenerative changes of the spine as well, including mild facet arthropathy.
+
+IMPRESSION:
+Findings concerning for discitis and osteomyelitis at L3-L4 with associated bilateral psoas abscesses, the largest measuring up to 6.0 cm on the right. Incidental non-obstructing left renal calculus and small hepatic cysts, both of no clinical significance at this time.","Generate a fake CT abdomen and pelvis report with contrast with [lumbar spine findings concerning for osteomyelitis, and also collections in the psoas musculature that are likely abscesses]. Include a few incidental findings that are not concerning. 
+
+1. DO NOT use markdown formatting and put in markdown block
+
+2. Create in paragraph form -- no bullet points
+
+Format using this template:
+
+CLINICAL HISTORY: [Back pain]
+
+TECHNIQUE: CT of the abdomen and pelvis [with] intravenous contrast
+
+COMPARISON: [None]
+
+FINDINGS:
+Lung Bases: [Unremarkable.]
+
+Liver: [Unremarkable.]
+
+Biliary System: [Unremarkable.]
+
+Pancreas: [Unremarkable.]
+
+Spleen: [Unremarkable.]
+
+Adrenals: [Unremarkable.]
+
+Kidneys: [Unremarkable.]
+
+Pelvis/Bladder: [Unremarkable.]
+
+Bowel: [No evidence of obstruction. No bowel wall thickening is identified. The appendix is unremarkable.]
+
+Mesentery/Peritoneum: [No ascites. No abnormal focal fluid collections. No free air.]
+
+Nodes: [No lymphadenopathy.]
+
+Bones & Soft tissues: [Degenerative changes of the spine. No aggressive osseous lesion.]
+
+IMPRESSION:
+[Normal CT scan of the abdomen and pelvis.]",,Discitis/osteomyelitis
+6,CT Abdomen and Pelvis with IV contrast,"CLINICAL HISTORY: Abdominal pain
+
+TECHNIQUE: CT of the abdomen and pelvis with intravenous contrast
+
+COMPARISON: None
+
+FINDINGS:
+Lung Bases: Unremarkable.
+
+Liver: The liver is unremarkable aside from a few subcentimeter hypodense lesions in segment VIII, most consistent with benign cysts.
+
+Biliary System: Unremarkable.
+
+Pancreas: Unremarkable.
+
+Spleen: Unremarkable.
+
+Adrenals: Unremarkable.
+
+Kidneys: The kidneys demonstrate mild bilateral cortical scarring without hydronephrosis. A simple cyst measuring 1.5 cm is noted in the mid-pole of the right kidney, an incidental and likely benign finding.
+
+Pelvis/Bladder: The bladder is unremarkable. The uterus shows small calcified fibroids, with the largest measuring 1.8 cm in diameter, which are likely incidental.
+
+Bowel: There is discontinuity of the anterior wall of the duodenum with associated adjacent fat stranding. Moderate volume free intraperitoneal air is identified, particularly in the upper abdomen tracking along the anterior peritoneal cavity and around the liver margins. These findings are concerning for a perforated duodenal ulcer. No bowel obstruction is identified. The appendix is unremarkable.
+
+Mesentery/Peritoneum: There is free intraperitoneal air as described. No abnormal focal fluid collections are seen. No ascites is present.
+
+Nodes: No lymphadenopathy.
+
+Bones & Soft tissues: There are degenerative changes of the lumbar spine, including disc space narrowing and anterior osteophyte formation. No aggressive osseous lesion is identified.
+
+IMPRESSION:
+Findings concerning for a ruptured duodenal ulcer with associated free intraperitoneal air. Incidental mild bilateral renal cortical scarring, right renal simple cyst, and small calcified uterine fibroids, none of which appear clinically significant at this time.","CLINICAL HISTORY: Back pain
+
+TECHNIQUE: CT of the abdomen and pelvis with intravenous contrast
+
+COMPARISON: None
+
+FINDINGS:
+Lung Bases: No focal consolidation.
+
+Liver: Simple cysts.
+
+Biliary System: Normal.
+
+Pancreas: Normal.
+
+Spleen: Normal.
+
+Adrenals: Normal.
+
+Kidneys: Mild cortical scarring.
+
+Pelvis/Bladder: Normal.
+
+Bowel: Duodenal wall defect with adjacent fat stranding. Free air tracking around liver.
+
+Mesentery/Peritoneum: Free air noted. No abnormal collections.
+
+Nodes: No lymphadenopathy.
+
+Bones & Soft tissues: Degenerative changes.
+
+IMPRESSION:
+
+Ruptured duodenal ulcer with free air.
+
+Incidental renal cortical scarring.","Generate a fake CT abdomen and pelvis report with contrast with [findings concerning for ruptured duodenal ulcer with free air in the peritoneum]. Include a few incidental findings that are not concerning. 
+
+1. DO NOT use markdown formatting and put in markdown block
+
+2. Create in paragraph form -- no bullet points
+
+Format using this template:
+
+CLINICAL HISTORY: [Abdominal pain]
+
+TECHNIQUE: CT of the abdomen and pelvis [with] intravenous contrast
+
+COMPARISON: [None]
+
+FINDINGS:
+Lung Bases: [Unremarkable.]
+
+Liver: [Unremarkable.]
+
+Biliary System: [Unremarkable.]
+
+Pancreas: [Unremarkable.]
+
+Spleen: [Unremarkable.]
+
+Adrenals: [Unremarkable.]
+
+Kidneys: [Unremarkable.]
+
+Pelvis/Bladder: [Unremarkable.]
+
+Bowel: [No evidence of obstruction. No bowel wall thickening is identified. The appendix is unremarkable.]
+
+Mesentery/Peritoneum: [No ascites. No abnormal focal fluid collections. No free air.]
+
+Nodes: [No lymphadenopathy.]
+
+Bones & Soft tissues: [Degenerative changes of the spine. No aggressive osseous lesion.]
+
+IMPRESSION:
+[Normal CT scan of the abdomen and pelvis.]",,Perforated duodenal ulcer
+7,CT Abdomen and Pelvis with IV contrast,"CLINICAL HISTORY: Weight loss, blood in stool.
+
+TECHNIQUE: CT of the abdomen and pelvis with intravenous contrast
+
+COMPARISON: None
+
+FINDINGS:
+Lung Bases: Multiple subcentimeter pulmonary nodules are noted in the lung bases, the largest measuring 7 mm in the right lower lobe. These findings are concerning for possible metastatic disease. No focal consolidation or pleural effusion is identified.
+
+Liver: The liver is enlarged and demonstrates multiple hypodense lesions throughout both lobes, the largest measuring 4.8 x 3.9 cm in segment VI, concerning for metastatic disease. In addition, several smaller simple hepatic cysts are noted, the largest measuring 1.4 cm, likely incidental and benign.
+
+Biliary System: Unremarkable.
+
+Pancreas: Unremarkable aside from a small non-enhancing cystic lesion in the pancreatic body measuring 1.2 cm, likely incidental.
+
+Spleen: Unremarkable.
+
+Adrenals: Unremarkable.
+
+Kidneys: The kidneys are unremarkable with the exception of a small simple cyst in the lower pole of the left kidney measuring 1.6 cm.
+
+Pelvis/Bladder: Unremarkable.
+
+Bowel: There is an irregular, heterogeneously enhancing mass involving the transverse colon measuring approximately 5.4 x 4.6 cm in axial dimensions with associated luminal narrowing but no evidence of complete obstruction. The appendix is unremarkable.
+
+Mesentery/Peritoneum: No ascites. No abnormal focal fluid collections. No free air.
+
+Nodes: Several borderline enlarged mesenteric lymph nodes are present, the largest measuring up to 1.2 cm in short axis, concerning for possible nodal involvement.
+
+Bones & Soft tissues: Degenerative changes of the spine are present, including facet arthropathy and anterior osteophytes. No aggressive osseous lesion is identified.
+
+IMPRESSION:
+1. Transverse colon mass measuring approximately 5.4 x 4.6 cm concerning for primary colon carcinoma.  
+2. Multiple hepatic lesions consistent with metastatic disease, the largest measuring 4.8 x 3.9 cm in segment VI.  
+3. Multiple small pulmonary nodules in the lung bases, the largest measuring 7 mm, concerning for metastasis.  
+4. Borderline mesenteric lymphadenopathy, the largest node measuring up to 1.2 cm in short axis, possibly related to nodal involvement.  
+5. Incidental findings including small hepatic cysts, a pancreatic cyst, and a left renal cyst, none of which appear clinically significant.","CLINICAL HISTORY: Weight loss, blood in stool.
+
+TECHNIQUE: CT of the abdomen and pelvis with intravenous contrast
+
+COMPARISON: None
+
+FINDINGS:
+Lung Bases: Pulmonary nodules up to 7 mm.
+
+Liver: Multiple hypodense lesions, largest 4.8 x 3.9 cm.
+
+Biliary System: Normal.
+
+Pancreas: Normal aside from small cyst.
+
+Spleen: Normal.
+
+Adrenals: Normal.
+
+Kidneys: Simple renal cyst.
+
+Pelvis/Bladder: Normal.
+
+Bowel: 5.4 x 4.6 cm transverse colon mass.
+
+Mesentery/Peritoneum: Borderline mesenteric lymph nodes.
+
+Nodes: No additional lymphadenopathy.
+
+Bones & Soft tissues: Degenerative changes.
+
+IMPRESSION:
+
+Transverse colon mass consistent with primary carcinoma.
+
+Multiple hepatic metastases.
+
+Pulmonary nodules concerning for metastasis.
+
+Borderline mesenteric lymphadenopathy.
+
+Incidental cysts and benign renal findings.
+
+","Generate a fake CT abdomen and pelvis report with contrast with [a measureable colon mass in the transverse colon. Patient also has multiple liver lesions and pulmonary nodules in the lung bases that are concerning for metastasis]. Include a few incidental findings that are not concerning. 
+
+1. DO NOT use markdown formatting and put in markdown block
+
+2. Create in paragraph form -- no bullet points
+
+Format using this template:
+
+CLINICAL HISTORY: [Weight loss, blood in stool.]
+
+TECHNIQUE: CT of the abdomen and pelvis [with] intravenous contrast
+
+COMPARISON: [None]
+
+FINDINGS:
+Lung Bases: [Unremarkable.]
+
+Liver: [Unremarkable.]
+
+Biliary System: [Unremarkable.]
+
+Pancreas: [Unremarkable.]
+
+Spleen: [Unremarkable.]
+
+Adrenals: [Unremarkable.]
+
+Kidneys: [Unremarkable.]
+
+Pelvis/Bladder: [Unremarkable.]
+
+Bowel: [No evidence of obstruction. No bowel wall thickening is identified. The appendix is unremarkable.]
+
+Mesentery/Peritoneum: [No ascites. No abnormal focal fluid collections. No free air.]
+
+Nodes: [No lymphadenopathy.]
+
+Bones & Soft tissues: [Degenerative changes of the spine. No aggressive osseous lesion.]
+
+IMPRESSION:
+[Normal CT scan of the abdomen and pelvis.]",,Metastatic colon cancer
+8,CT Abdomen and Pelvis with IV contrast,"CLINICAL HISTORY: Abdominal pain.
+
+TECHNIQUE: CT of the abdomen and pelvis with intravenous contrast
+
+COMPARISON: None
+
+FINDINGS:
+Lung Bases: Unremarkable.
+
+Liver: The liver is unremarkable aside from a few subcentimeter hypodense lesions consistent with simple hepatic cysts, the largest measuring 1.3 cm in segment VII.
+
+Biliary System: Unremarkable.
+
+Pancreas: Unremarkable.
+
+Spleen: Unremarkable.
+
+Adrenals: Unremarkable.
+
+Kidneys: The kidneys are unremarkable aside from a non-obstructing calculus in the lower pole of the right kidney measuring 2 mm, likely incidental and clinically insignificant.
+
+Pelvis/Bladder: A large complex cystic and solid mass is identified posterior to the uterus, measuring approximately 10.2 x 8.7 x 9.4 cm, arising from the left adnexa and displacing adjacent structures. The mass demonstrates peripheral enhancement with central areas of low attenuation. Its abnormal location and mass effect on the uterus raise concern for ovarian torsion. The bladder is otherwise unremarkable.
+
+Bowel: No evidence of obstruction. No bowel wall thickening is identified. The appendix is unremarkable.
+
+Mesentery/Peritoneum: A moderate amount of free fluid is noted in the pelvis and lower abdomen. No abnormal focal fluid collections or free air is identified.
+
+Nodes: No lymphadenopathy.
+
+Bones & Soft tissues: Degenerative changes of the spine are present, including anterior osteophytes and mild facet arthropathy. No aggressive osseous lesion is identified.
+
+IMPRESSION:
+1. Large left adnexal mass measuring approximately 10.2 x 8.7 x 9.4 cm, posterior to the uterus, concerning for ovarian neoplasm with associated findings suggestive of ovarian torsion.  
+2. Moderate volume free fluid in the pelvis and lower abdomen, likely related to the adnexal process.  
+3. Incidental hepatic cysts and non-obstructing right renal calculus, both likely benign and clinically insignificant.","CLINICAL HISTORY: Abdominal pain.
+
+TECHNIQUE: CT of the abdomen and pelvis with intravenous contrast
+
+COMPARISON: None
+
+FINDINGS:
+Lung Bases: Scattered subcentimeter pulmonary nodules are noted, likely incidental and non-specific. No consolidation, pleural effusion, or pneumothorax.
+
+Liver: The liver demonstrates normal size and contour. Several small, simple hepatic cysts are identified, the largest measuring 1.4 cm in segment VII, with no evidence of suspicious hepatic lesions.
+
+Biliary System: No biliary dilatation or gallstones. Gallbladder is unremarkable.
+
+Pancreas: No pancreatic masses, cysts, or peripancreatic inflammatory changes are identified.
+
+Spleen: Normal in size and appearance.
+
+Adrenals: Bilateral adrenal glands are within normal limits.
+
+Kidneys: The right kidney shows a 2 mm non-obstructing lower pole calculus without associated hydronephrosis or perinephric stranding. Multiple subcentimeter cortical cysts are present bilaterally, including a 1.8 cm simple cyst in the left renal mid pole.
+
+Pelvis/Bladder: The bladder is unremarkable. There is a large complex cystic and solid mass centered in the left adnexa, posterior to the uterus, measuring approximately 10.5 x 9.0 x 9.3 cm. The mass demonstrates heterogeneous enhancement with peripheral solid components and central non-enhancing low-attenuation areas, concerning for either a neoplastic process such as an ovarian neoplasm (including cystadenoma or cystadenocarcinoma) or a hemorrhagic ovarian cyst. The abnormal posterior location and mass effect on the uterus raise the possibility of ovarian torsion. No definitive twisted vascular pedicle is visualized on this exam. 
+
+Bowel: No evidence of bowel obstruction. No abnormal bowel wall thickening. The appendix is unremarkable.
+
+Mesentery/Peritoneum: There is a moderate volume of free fluid predominantly in the pelvis and lower abdomen, likely secondary to the adnexal process. No abnormal mesenteric masses or lymphadenopathy.
+
+Nodes: No enlarged lymph nodes are identified in the abdomen or pelvis.
+
+Bones & Soft tissues: Moderate degenerative changes in the lumbar spine are noted. There is no aggressive osseous lesion. 
+
+Vascular: Non-occlusive thrombus is identified within the left common femoral vein, concerning for deep venous thrombosis. No evidence of inferior vena cava thrombus.
+
+IMPRESSION:
+1. Large left adnexal complex mass measuring approximately 10.5 x 9.0 x 9.3 cm, posterior to the uterus, with features concerning for ovarian neoplasm such as cystadenoma or cystadenocarcinoma. Differential considerations include a hemorrhagic ovarian cyst with possible torsion, although no definitive twisted vascular pedicle is identified.  
+2. Moderate free intraperitoneal fluid, likely related to the adnexal process.  
+3. Non-occlusive thrombus within the left common femoral vein, concerning for deep venous thrombosis. Recommend clinical correlation and further evaluation with lower extremity duplex ultrasound.  
+4. Incidental hepatic cysts and bilateral renal cortical cysts, including a non-obstructing right lower pole renal calculus, all likely benign and without clinical significance.  
+5. Scattered subcentimeter pulmonary nodules, likely incidental, non-specific.  ","Generate a fake CT abdomen and pelvis report with contrast with [a large ovarian mass that is abnormally located posterior to the uterus and raises concern for ovarian torsion. Patient also has some free fluid]. Include a few incidental findings that are not concerning. 
+
+1. DO NOT use markdown formatting and put in markdown block
+
+2. Create in paragraph form -- no bullet points
+
+3. Number the impression points instead of giving a single sentence when there are multiple points.
+
+Format using this template:
+
+CLINICAL HISTORY: [Abdominal pain.]
+
+TECHNIQUE: CT of the abdomen and pelvis [with] intravenous contrast
+
+COMPARISON: [None]
+
+FINDINGS:
+Lung Bases: [Unremarkable.]
+
+Liver: [Unremarkable.]
+
+Biliary System: [Unremarkable.]
+
+Pancreas: [Unremarkable.]
+
+Spleen: [Unremarkable.]
+
+Adrenals: [Unremarkable.]
+
+Kidneys: [Unremarkable.]
+
+Pelvis/Bladder: [Unremarkable.]
+
+Bowel: [No evidence of obstruction. No bowel wall thickening is identified. The appendix is unremarkable.]
+
+Mesentery/Peritoneum: [No ascites. No abnormal focal fluid collections. No free air.]
+
+Nodes: [No lymphadenopathy.]
+
+Bones & Soft tissues: [Degenerative changes of the spine. No aggressive osseous lesion.]
+
+IMPRESSION:
+[Normal CT scan of the abdomen and pelvis.]","Can you make another version of the above generated report as if it was corrected by a more senior and experienced radiologist? It can include stylistic change in language, or a new missed finding such as deep venous thrombosis of the common femoral vein, or correction of a stated finding. Please let me know what else you would like to know to generate this.       Suggesting a differential would be great, while maintaining that there is an ovarian mass. In terms of rewording, I will provide you with requests to provide updated reports for the other generated reports we have made, so you can switch from formal to more extensive differences in language (ie using different descriptors but maintaining the general structure of the report). Laterality does not matter for the thrombosis, and you can use a general descriptor. Incidental findings can be expanded. Hope this helps, please let me know what else you'd like to know.  ",Ovarian mass with possible torsion
+9,CTA Chest with IV Contrast,"CLINICAL HISTORY: Chest pain.
+
+TECHNIQUE: CTA of the chest with intravenous contrast.
+
+COMPARISON: None.
+
+FINDINGS:
+Vessels: There is a saddle pulmonary embolus extending into both the right and left main pulmonary arteries and several lobar branches bilaterally. There is evidence of right heart strain demonstrated by an increased right ventricular to left ventricular (RV:LV) ratio measuring about 1.3:1 on axial images and reflux of contrast into the inferior vena cava.
+
+Lungs and Airway: The airways are patent. No consolidation or large pulmonary nodule. There are a few small ground-glass opacities in the right lower lobe, possibly representing small pulmonary infarcts.
+
+Pleura: No pneumothorax or pleural effusion.
+
+Heart and Mediastinum: Mild right ventricular enlargement is noted. No pericardial effusion. The thoracic aorta is normal in size. Trace coronary artery calcification is seen in the left anterior descending artery.
+
+Lymph Nodes: No enlarged mediastinal, hilar, or axillary lymph nodes.
+
+Upper Abdomen: Unremarkable.
+
+Lower Neck: Partially imaged, no abnormality.
+
+Bones & Soft tissues: Mild degenerative changes of the thoracic spine. No aggressive bone lesions.
+
+Other: None.
+
+IMPRESSION:
+
+Saddle pulmonary embolus involving the right and left main pulmonary arteries and bilateral lobar branches.
+
+Imaging findings of right heart strain, including increased RV:LV ratio (~1.3:1) and reflux of contrast into the inferior vena cava.
+
+Small peripheral ground-glass opacities in the right lower lobe, likely pulmonary infarcts.","CLINICAL HISTORY: Chest pain.
+
+TECHNIQUE: CTA of the chest with intravenous contrast.
+
+COMPARISON: None.
+
+FINDINGS:
+Vessels: There is a saddle pulmonary embolus involving the bifurcation of the main pulmonary artery, extending into the right and left main pulmonary arteries with involvement of multiple lobar and segmental branches bilaterally. Findings of right heart strain include an elevated right ventricular to left ventricular (RV:LV) diameter ratio measuring approximately 1.4:1 on axial images, interventricular septal flattening, and reflux of contrast into a mildly dilated inferior vena cava and hepatic veins. No thrombus is visualized within the superior vena cava.
+
+Lungs and Airway: The central airways remain patent. No focal pulmonary consolidation or suspicious nodule. Small peripheral wedge-shaped ground-glass opacities and subtle consolidation in the posterior right lower lobe are present, consistent with pulmonary infarcts. Mild dependent atelectasis is noted in the posterior lower lobes.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Heart and Mediastinum: Mild right ventricular enlargement with septal flattening. The thoracic aorta is within normal limits in caliber. Trace coronary artery calcification in the proximal left anterior descending artery. No pericardial effusion.
+
+Lymph Nodes: No axillary, mediastinal, or hilar lymphadenopathy.
+
+Upper Abdomen: Unremarkable.
+
+Lower Neck: Partially included, unremarkable.
+
+Bones & Soft tissues: Multilevel mild degenerative changes of the thoracic spine. Incidental note of a small, benign-appearing hemangioma within the T8 vertebral body.
+
+Other: None.
+
+IMPRESSION:
+
+Saddle pulmonary embolus extending into bilateral main, lobar, and segmental pulmonary arteries.
+
+Imaging findings consistent with right heart strain, including an RV:LV ratio of approximately 1.4:1, interventricular septal flattening, and reflux of contrast into a dilated inferior vena cava and hepatic veins.
+
+Small peripheral ground-glass and consolidative opacities in the posterior right lower lobe, consistent with pulmonary infarcts.","Generate a fake CTA chest report with contrast with [a saddle pulmonary embolus with signs of right heart strain], as if you are a resident physician in training at an academic hospital. Make sure to specify a few signs of right heart strain. Include a few incidental findings. Next, send m another version of the report as if it was corrected by a more senior and experienced attending radiologist? It should include stylistic change in language, or a new missed finding/important details.
+1. DO NOT use markdown formatting and put in markdown block
+2. Create in paragraph form -- no bullet points
+3. Number the impression points instead of giving a single sentence when there are multiple points.
+Format using this template:
+CLINICAL HISTORY: [Chest pain.]
+TECHNIQUE: CTA of the chest [with] intravenous contrast
+COMPARISON: [None]
+FINDINGS:Vessels: [No pulmonary embolus.]
+Lungs and Airway: [The central airways are patent. No suspicious pulmonary nodule or consolidation.]
+Pleura: [No pleural effusion or pneumothorax.]
+Heart and Mediastinum: [No cardiomegaly. The main pulmonary artery and thoracic aorta are normal in caliber. No pericardial effusion. No coronary artery calcifications.]
+Lymph Nodes: [No axillary, mediastinal, or hilar adenopathy.]
+Upper Abdomen: [Unremarkable.]
+Lower Neck: [Partially imaged, unremarkable.]
+Bones & Soft tissues: [Degenerative changes of the spine. No aggressive osseous lesion.]
+Other: [None.]
+IMPRESSION: [Normal CT scan of the chest.]",,Saddle PE
+10,CTA Chest with IV Contrast,"CLINICAL HISTORY: Chest pain.
+
+TECHNIQUE: CTA of the chest with intravenous contrast.
+
+COMPARISON: None.
+
+FINDINGS:
+Vessels: No pulmonary embolus identified.
+
+Lungs and Airway: Dense consolidation in the posterior basal segment of the right lower lobe with central areas of low attenuation suggestive of necrosis. Mild bronchial wall thickening and scattered ground-glass opacities in the lower lobes bilaterally. Layering secretions within the trachea and mainstem bronchi are present, suggesting chronic aspiration. No pulmonary nodule or focal mass.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Heart and Mediastinum: Normal cardiac size. No pericardial effusion. Thoracic aorta within normal limits.
+
+Lymph Nodes: No mediastinal, hilar, or axillary lymphadenopathy.
+
+Upper Abdomen: Mild hepatic steatosis incidentally noted.
+
+Lower Neck: No abnormality on the limited exam.
+
+Bones & Soft tissues: Mild degenerative changes of the thoracic spine.
+
+Other: None.
+
+IMPRESSION:
+
+Necrotizing pneumonia in the posterior basal segment of the right lower lobe.
+
+Findings of small airways disease and layering tracheal secretions concerning for chronic aspiration","CLINICAL HISTORY: Chest pain.
+
+TECHNIQUE: CTA of the chest with intravenous contrast.
+
+COMPARISON: None.
+
+FINDINGS:
+Vessels: No evidence of pulmonary embolism.
+
+Lungs and Airway: Cavitary necrotizing pneumonia involving the posterior basal segment of the right lower lobe, demonstrated by dense consolidation with central areas of low attenuation and several small internal air-fluid levels. Surrounding ground-glass opacities and mild centrilobular nodularity noted in the posterior lower lobes bilaterally. Mild bronchial wall thickening present. Dependent tracheal and mainstem bronchial secretions are moderate in volume. Scattered dependent centrilobular tree-in-bud opacities in the lower lobes and right middle lobe. No suspicious pulmonary nodule or mass.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Heart and Mediastinum: Normal cardiac size and contour. No pericardial effusion. Thoracic aorta is within normal limits.
+
+Lymph Nodes: No mediastinal, hilar, or axillary lymphadenopathy.
+
+Upper Abdomen: Mild hepatic steatosis incidentally noted.
+
+Lower Neck: No abnormality on the limited exam.
+
+Bones & Soft tissues: Mild degenerative changes of the thoracic spine.
+
+Other: None.
+
+IMPRESSION:
+
+Cavitary necrotizing pneumonia involving the posterior basal segment of the right lower lobe with associated air-fluid levels. Differential considerations include necrotizing bacterial pneumonia and anaerobic infection, less likely cavitating malignancy in this clinical setting.
+
+Imaging findings suggestive of chronic aspiration, including moderate dependent tracheal and bronchial secretions, dependent tree-in-bud nodularity, and small airways inflammatory changes in the lower lobes.
+
+No evidence of pulmonary embolism.","Generate a fake CTA chest report with contrast with [a necrotizing right lower lobe pneumonia, small airways disease and tracheal secretions to suggest chronic aspiration without evidence of PE], as if you are a resident physician in training at an academic hospital. Make sure to specify findings for necrotizing infection and aspiration. Include a few incidental findings. Next, send another version of the report as if it was corrected by a more senior and experienced attending radiologist. It should include stylistic change in language and new missed findings and/or important details.
+1. DO NOT use markdown formatting and put in markdown block
+2. Create in paragraph form -- no bullet points
+3. Number the impression points instead of giving a single sentence when there are multiple points.
+Format using this template:
+CLINICAL HISTORY: [Chest pain.]
+TECHNIQUE: CTA of the chest [with] intravenous contrast
+COMPARISON: [None]
+FINDINGS:Vessels: [No pulmonary embolus.]
+Lungs and Airway: [The central airways are patent. No suspicious pulmonary nodule or consolidation.]
+Pleura: [No pleural effusion or pneumothorax.]
+Heart and Mediastinum: [No cardiomegaly. The main pulmonary artery and thoracic aorta are normal in caliber. No pericardial effusion. No coronary artery calcifications.]
+Lymph Nodes: [No axillary, mediastinal, or hilar adenopathy.]
+Upper Abdomen: [Unremarkable.]
+Lower Neck: [Partially imaged, unremarkable.]
+Bones & Soft tissues: [Degenerative changes of the spine. No aggressive osseous lesion.]
+Other: [None.]
+IMPRESSION: [Normal CT scan of the chest.]",,Necrotizing pneumonia
+11,CT chest without,"CLINICAL HISTORY: Chest pain following recent intubation.
+
+TECHNIQUE: CT of the chest without intravenous contrast.
+
+COMPARISON: None.
+
+FINDINGS:
+Lungs and Airway: There is a focal defect along the right posterolateral membranous trachea approximately 3 cm above the carina, measuring approximately 1.2 cm in length. Surrounding pneumomediastinum is present, tracking along the peritracheal and paratracheal soft tissues and extending into the anterior mediastinum. No discrete pulmonary consolidation, pneumothorax, or suspicious pulmonary nodules are seen.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Heart and Mediastinum: No pericardial effusion. The heart is normal in size. Thoracic aorta and main pulmonary artery are within normal limits. Mild pneumomediastinum as noted above.
+
+Lymph Nodes: No significant mediastinal, hilar, or axillary lymphadenopathy.
+
+Upper Abdomen: Mild hepatic steatosis.
+
+Lower Neck: Limited images demonstrate extension of the pneumomediastinum into the lower cervical soft tissues.
+
+Bones & Soft tissues: Degenerative changes of the thoracic spine. No aggressive osseous lesions.
+
+Other: None.
+
+IMPRESSION:
+
+Focal tracheal rupture along the right posterolateral membranous trachea, approximately 3 cm above the carina, with associated pneumomediastinum.
+
+Pneumomediastinum extending into the anterior mediastinum and lower neck.
+
+No pneumothorax or other acute intrathoracic findings","CLINICAL HISTORY: Chest pain following recent intubation.
+
+TECHNIQUE: CT of the chest without intravenous contrast.
+
+COMPARISON: None.
+
+FINDINGS:
+Lungs and Airway: There is a focal 1.2 cm defect along the right posterolateral membranous trachea, approximately 2.8 cm proximal to the carina, with moderate surrounding pneumomediastinum tracking along peritracheal, paratracheal, and anterior mediastinal soft tissues. No pneumothorax. Lungs are clear without focal consolidation or suspicious nodules.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Heart and Mediastinum: Normal cardiac size and contour. No pericardial effusion. Thoracic aorta and main pulmonary artery are unremarkable. Pneumomediastinum as above.
+
+Lymph Nodes: No pathologically enlarged mediastinal, hilar, or axillary lymphadenopathy.
+
+Upper Abdomen: Visualized portions are unremarkable.
+
+Lower Neck: Pneumomediastinum extends into the lower cervical soft tissues without associated retropharyngeal or danger space collection.
+
+Bones & Soft Tissues: Mild degenerative changes of the thoracic spine. No acute osseous abnormality.
+
+Other: None.
+
+IMPRESSION:
+
+Focal right posterolateral membranous tracheal defect, approximately 1.2 cm, located 2.8 cm above the carina, with associated pneumomediastinum extending into the anterior mediastinum and lower neck.
+Differential considerations include iatrogenic injury related to recent intubation (most likely), less likely spontaneous rupture or secondary traumatic insult.
+
+No pneumothorax.","Generate a fake CT chest report without contrast with [tracheal rupture], as if you are a resident physician in training at an academic hospital. Make sure to specify findings for tracheal rupture and pneumomediastinum. Include a few incidental findings. Next, send another version of the report as if it was corrected by a more senior and experienced attending radiologist. It should include stylistic change in language and new missed findings and important details.
+1. DO NOT use markdown formatting and put in markdown block
+2. Create in paragraph form -- no bullet points
+3. Number the impression points instead of giving a single sentence when there are multiple points.
+Format using this template:
+CLINICAL HISTORY: [Chest pain.]
+TECHNIQUE: CT of the chest [without] intravenous contrast
+COMPARISON: [None]
+FINDINGS:
+Lungs and Airway: [The central airways are patent. No suspicious pulmonary nodule or consolidation.]
+Pleura: [No pleural effusion or pneumothorax.]
+Heart and Mediastinum: [No cardiomegaly. The main pulmonary artery and thoracic aorta are normal in caliber. No pericardial effusion. No coronary artery calcifications.]
+Lymph Nodes: [No axillary, mediastinal, or hilar adenopathy.]
+Upper Abdomen: [Unremarkable.]
+Lower Neck: [Partially imaged, unremarkable.]
+Bones & Soft tissues: [Degenerative changes of the spine. No aggressive osseous lesion.]
+Other: [None.]
+IMPRESSION: [Normal CT scan of the chest.]",,Tracheal rupture
+12,CT chest without,"RESIDENT REPORT
+
+CLINICAL HISTORY: Chest pain and dyspnea status post left needle thoracostomy.
+
+TECHNIQUE: CT of the chest without intravenous contrast.
+
+COMPARISON: None.
+
+FINDINGS:
+Lungs and Airway: New moderate-sized right pneumothorax with partial collapse of the right upper and middle lobes. Left pneumothorax is resolved with interval placement of needle thoracostomy, evident by a subcutaneous tract and small adjacent hematoma in the left anterior chest wall. The left lung demonstrates new, patchy, ground-glass opacities predominantly in the mid and lower lung zones, compatible with re-expansion pulmonary edema. No pulmonary consolidation or suspicious nodule identified. Central airways remain patent.
+
+Pleura: Moderate right pneumothorax as above. No pleural effusion.
+
+Heart and Mediastinum: Normal cardiac silhouette. No pericardial effusion. Mediastinal contours preserved. No pathologic mediastinal lymphadenopathy.
+
+Lymph Nodes: No pathologically enlarged axillary, hilar, or mediastinal lymph nodes.
+
+Upper Abdomen: Mild hepatic steatosis noted. Adrenal glands, kidneys, and spleen unremarkable on limited views.
+
+Lower Neck: Partially imaged, no abnormality.
+
+Bones & Soft Tissues: Mild degenerative changes of the thoracic spine. No acute osseous lesion.
+
+Other: Scattered dependent subsegmental atelectasis.
+
+IMPRESSION:
+
+New moderate right pneumothorax with associated right lung partial collapse.
+
+Interval resolution of left pneumothorax following needle thoracostomy.
+
+New patchy ground-glass opacities in the left lung, most pronounced in mid to lower zones, compatible with re-expansion pulmonary edema.","CLINICAL HISTORY: Chest pain and dyspnea following left needle thoracostomy.
+
+TECHNIQUE: CT of the chest without intravenous contrast.
+
+COMPARISON: None.
+
+FINDINGS:
+Lungs and Airway: Moderate right pneumothorax with partial right lung collapse. Left lung shows patchy, predominantly peripheral ground-glass opacities, greatest in mid and lower lobes, consistent with re-expansion pulmonary edema. Left chest wall soft tissue tract from recent needle thoracostomy noted. No suspicious pulmonary nodules or consolidation.
+
+Pleura: Right pneumothorax as above. No pleural effusion.
+
+Heart and Mediastinum: Normal cardiac size and mediastinal contours. No pericardial effusion.
+
+Lymph Nodes: No pathologic adenopathy.
+
+Upper Abdomen: Visualized portions unremarkable.
+
+Lower Neck: No abnormality.
+
+Bones & Soft Tissues: No acute osseous abnormality.
+
+IMPRESSION:
+
+Moderate right pneumothorax with partial right lung collapse.
+
+Re-expansion pulmonary edema in the left lung following recent thoracostomy. Differential for re-expansion changes includes rapid lung re-inflation following therapeutic intervention, though alternative etiologies for ground-glass opacities such as edema from other causes or early infection are considered less likely given distribution and clinical context.
+
+No evidence of pleural effusion or acute large airway obstruction.","""Generate a fake CT chest report without contrast with [new right pneumothorax, left pneumothorax s/p needle thoracostomy with reexpansion pulmonary edema], as if you are a resident physician in training at an academic hospital. Make sure to specify findings for right pneumothorax and left reexpansion pulmonary edema. Include a few incidental findings. Next, send another version of the report as if it was corrected by a more senior and experienced attending radiologist. It should include stylistic change in language and new missed findings and important details. the attending impression does not need minor findings like atelectasis or hepatic steatosis. stop giving such specific clinical recommendations. make the attending report more significantly different from the resident report in terms of concise language, providing a differential, and additional findings.
+1. DO NOT use markdown formatting and put in markdown block
+2. Create in paragraph form -- no bullet points
+3. Number the impression points instead of giving a single sentence when there are multiple points.
+Format using this template:
+CLINICAL HISTORY: [Chest pain.]
+TECHNIQUE: CT of the chest [without] intravenous contrast
+COMPARISON: [None]
+FINDINGS:
+Lungs and Airway: [The central airways are patent. No suspicious pulmonary nodule or consolidation.]
+Pleura: [No pleural effusion or pneumothorax.]
+Heart and Mediastinum: [No cardiomegaly. The main pulmonary artery and thoracic aorta are normal in caliber. No pericardial effusion. No coronary artery calcifications.]
+Lymph Nodes: [No axillary, mediastinal, or hilar adenopathy.]
+Upper Abdomen: [Unremarkable.]
+Lower Neck: [Partially imaged, unremarkable.]
+Bones & Soft tissues: [Degenerative changes of the spine. No aggressive osseous lesion.]
+Other: [None.]
+IMPRESSION: [Normal CT scan of the chest.]""",,"New right pneumothorax, left pneumothorax s/p needle thoracostomy with reexpansion pulmonary edema"
+13,CT chest without,"CLINICAL HISTORY: Blunt chest trauma following motor vehicle collision.
+
+TECHNIQUE: CT of the chest without intravenous contrast.
+
+COMPARISON: None.
+
+FINDINGS:
+Lungs and Airway: The central airways are patent. Patchy subsegmental atelectasis is noted in the dependent lower lobes. No focal consolidation, mass, or suspicious pulmonary nodule identified.
+
+Pleura: New moderate right hemothorax with layering hyperdense fluid measuring approximately 30-35 HU in the right pleural space. No pneumothorax.
+
+Heart and Mediastinum: Normal cardiac silhouette. Mediastinal contours preserved. No pericardial effusion.
+
+Lymph Nodes: No axillary, mediastinal, or hilar lymphadenopathy.
+
+Upper Abdomen: Mild hepatic steatosis. Adrenal glands and kidneys unremarkable on limited views.
+
+Lower Neck: No acute abnormality.
+
+Bones & Soft tissues: Multiple displaced fractures of the right 4th through 8th ribs with at least three consecutive ribs fractured in two or more places, consistent with flail chest segment along the lateral and posterior right hemithorax. Associated adjacent soft tissue emphysema present. No acute vertebral fracture.
+
+Other: Degenerative changes of the thoracic spine. No aggressive osseous lesion.
+
+IMPRESSION:
+
+Moderate right hemothorax.
+
+Multiple displaced right 4th–8th rib fractures consistent with flail chest.
+
+No pneumothorax or pericardial effusion.","CLINICAL HISTORY: Blunt thoracic trauma status post motor vehicle collision.
+
+TECHNIQUE: CT of the chest without intravenous contrast.
+
+COMPARISON: None.
+
+FINDINGS:
+Lungs and Airway: Central airways are patent. Scattered dependent subsegmental atelectasis in lower lobes. No focal consolidation or suspicious nodules.
+
+Pleura: Moderate right hemothorax, characterized by layering hyperattenuating pleural fluid (approximately 30-35 HU) occupying the right pleural space without evidence of pneumothorax.
+
+Heart and Mediastinum: No cardiomegaly or pericardial effusion. Mediastinal structures unremarkable.
+
+Lymph Nodes: No pathologic axillary, hilar, or mediastinal lymphadenopathy.
+
+Upper Abdomen: Visualized upper abdominal structures unremarkable.
+
+Lower Neck: No acute abnormality.
+
+Bones & Soft tissues: Multiple displaced fractures of the right 4th–8th ribs involving lateral and posterior arcs, with at least three consecutive ribs fractured in two or more locations consistent with a flail chest segment. Associated soft tissue emphysema in the lateral right chest wall. No acute vertebral compression fracture.
+
+IMPRESSION:
+
+Moderate right hemothorax.
+
+Multiple displaced right lateral and posterior rib fractures (4th–8th) resulting in a flail chest segment.
+
+No pneumothorax identified; however, high-risk constellation of findings for evolving respiratory compromise.
+
+Differential for hyperattenuating pleural effusion primarily favors hemothorax given trauma history, although empyema or chylothorax considered less likely in this setting.","""Generate a fake CT chest report without contrast with [new right hemothorax, multiple right displaced rib fractures consistent with flail chest], as if you are a resident physician in training at an academic hospital. Make sure to specify findings for in detail for what i just mentioned. Include a few incidental findings also. Next, send another version of the report as if it was corrected by a more senior and experienced attending radiologist. It should include stylistic change in language to be more concise and accurate, provide new missed findings, a differential in the impression and other important details. the attending impression does not need minor findings like atelectasis or hepatic steatosis. do not give specific clinical recommendations.
+1. DO NOT use markdown formatting and put in markdown block
+2. Create in paragraph form -- no bullet points
+3. Number the impression points instead of giving a single sentence when there are multiple points.
+Format using this template:
+CLINICAL HISTORY: [Chest pain.]
+TECHNIQUE: CT of the chest [without] intravenous contrast
+COMPARISON: [None]
+FINDINGS:
+Lungs and Airway: [The central airways are patent. No suspicious pulmonary nodule or consolidation.]
+Pleura: [No pleural effusion or pneumothorax.]
+Heart and Mediastinum: [No cardiomegaly. The main pulmonary artery and thoracic aorta are normal in caliber. No pericardial effusion. No coronary artery calcifications.]
+Lymph Nodes: [No axillary, mediastinal, or hilar adenopathy.]
+Upper Abdomen: [Unremarkable.]
+Lower Neck: [Partially imaged, unremarkable.]
+Bones & Soft tissues: [Degenerative changes of the spine. No aggressive osseous lesion.]
+Other: [None.]
+IMPRESSION: [Normal CT scan of the chest.]""",,"Hemothorax, flail chest"
+14,MR abdomen with MRCP,"Liver: The liver is normal in size and contour. No masses. No segmental hypertrophy or atrophy. No evidence of fat. A lesion is seen in segment 6 measuring about 2.5 cm that is hyperintense on T2 and hypointense on T1. It shows some peripheral enhancement, probably a hemangioma. A few tiny cysts seen, like one in segment 4.
+
+Portal and hepatic veins: No thrombus.
+
+Biliary system: No dilated intrahepatic bile ducts. The common bile duct is normal, measuring about 4 mm. No stones.
+
+Gallbladder: Narrowing at the body with some cystic changes along the wall, likely adenomyomatosis. No stones or mass seen.
+
+Pancreas: No obvious mass or ductal dilatation. Normal contour.
+
+Spleen: Normal.
+
+Adrenal glands: Normal.
+
+Kidneys: Normal.
+
+Bowel: No significant abnormality.
+
+Lymph nodes: No enlarged nodes.
+
+Aorta: No aneurysm.
+
+IVC: Normal.
+
+Peritoneum: No free fluid.
+
+Osseous structures/soft tissues: No fractures or destructive lesions.
+
+Lower chest: Mild atelectasis at the bases.
+
+IMPRESSION:
+
+Focal gallbladder wall thickening and narrowing at the body, most consistent with adenomyomatosis.
+
+2.5 cm T2 hyperintense lesion in segment 6 of the liver likely representing hemangioma.
+
+No biliary obstruction or gallstones.","Liver: [Smooth in contour. No segmental atrophy or hypertrophy.]  [No signal loss on opposed phase imaging to suggest steatosis.]  T2 hyperintense, T1 hypointense 2.5 cm segment 6 lesion with progressive, peripheral discontinuous nodular enhancement, consistent with hemangioma.  Few subcentimeter cysts, for example in segment 4a. 
+
+Portal and hepatic veins: [Patent] 
+
+Biliary system: [No intrahepatic biliary ductal dilatation.]  [No abnormal enhancement of the intrahepatic or extrahepatic ducts.]  [Common duct normal in caliber, measuring] [4] mm in diameter.  [No common duct stone or stricture.] 
+
+Gallbladder: [Area of focal adenomyomatosis with intramural diverticula/cysts causing narrowing/stricture of the lumen at the level of the body with resultant hourglass configuration.  Small area of adenomyomatosis at the level of the fundus.  No mass, abnormal thickening or enhancement. 
+
+Pancreas: [Normal in size, signal and contour.]  [No inflammatory changes.]  [No pancreatic divisum.]  [No main pancreatic ductal dilatation.]  [No cystic or solid mass.] 
+
+Spleen: [Unremarkable.] 
+
+Adrenal glands: [Unremarkable.] 
+
+Kidneys: [Unremarkable.] 
+
+Bowel: [Unremarkable.] 
+
+Lymph nodes: [No lymphadenopathy.] 
+
+Abdominal aorta: [No aneurysm.] 
+
+Inferior vena cava: [Unremarkable.] 
+
+Peritoneum: [No ascites.] 
+
+Osseous structures/soft tissues: [Unremarkable.] 
+
+Lower chest: [Mild bibasilar atelectasis.] 
+
+IMPRESSION:
+Gallbladder adenomyomatosis with stricture causing luminal narrowing of the body. 
+
+No gallstones or suspicious mass.] ",Manual,Manual,Adenomyomatosis
+15,MR abdomen with and without contrast,"Liver: The liver is enlarged with somewhat irregular contour. There is diffuse hepatic steatosis, with a fat fraction of approximately 40%. No discrete mass is identified. A few simple cysts are seen, largest in the left lobe measuring 1.1 cm. Mild heterogeneous enhancement in the liver noted, likely related to fatty infiltration. No arterial enhancing lesion concerning for HCC is identified. The liver shows somewhat decreased Eovist uptake diffusely, though some excretion is faintly seen in the biliary system.
+
+Portal and hepatic veins: Portal vein is patent. Hepatic veins appear small but patent. No varices identified.
+
+Biliary system: Gallbladder is present and appears normal without stones or wall thickening. No biliary ductal dilatation.
+
+Pancreas: Normal in appearance.
+
+Spleen: Normal in size.
+
+Adrenal glands: No discrete lesion.
+
+Kidneys: Normal.
+
+Urinary bladder: Normal.
+
+Uterus/adnexa: A few uterine fibroids noted, none specifically measured. No adnexal mass.
+
+Lymph nodes: No significant lymphadenopathy.
+
+Peritoneum: Mild ascites.
+
+Bowel: No abnormal thickening or obstruction. Normal caliber.
+
+Abdominal aorta: Normal.
+
+Inferior vena cava: Normal.
+
+Abdominal wall: Unremarkable.
+
+Osseous structures/soft tissues: No aggressive bone lesion.
+
+Lower chest: Left basilar atelectasis. No pleural effusion seen.
+
+IMPRESSION:
+
+Cirrhotic liver morphology with diffuse hepatic steatosis (fat fraction 40%).
+
+No discrete hepatic mass identified. No definite evidence of hepatocellular carcinoma.
+
+Mild ascites.
+
+No biliary obstruction.
+
+Uterine fibroids.","Liver: [Mild hepatomegaly.  Nodular parenchyma.  Pre and postcontrast parenchymal heterogeneity.  No segmental atrophy or hypertrophy.] [Hepatic steatosis with fat fraction 42%.]  [No solid mass.]  Few bilobar cysts measuring up to 1.1 cm in the left lobe.  Heterogeneous enhancement of the liver in the arterial and portal venous phase secondary to bridging fibrosis, nodular regeneration and hepatic steatosis.  No discrete signal abnormality in the liver with enhancement typical for hepatocellular carcinoma.  Diffuse decreased concentration of Eovist in the parenchyma secondary to marked hepatic steatosis.  No definitive excretion of Eovist in the biliary tree indicating impaired hepatocellular function. 
+
+
+
+Portal and hepatic veins: [Patent.] The hepatic veins are diminutive secondary to cirrhosis.  Small esophageal varices.  Small left upper quadrant varices.  No large portosystemic collaterals. 
+
+
+
+Biliary system: Gallbladder [present] with wall edema.  [No biliary calculi or ductal dilatation.] 
+
+
+
+Pancreas: [Unremarkable.] 
+
+
+
+Spleen: [Unremarkable.] 
+
+
+
+Adrenal glands: [Unremarkable.] 
+
+
+
+Kidneys: [Unremarkable.] 
+
+Urinary bladder: [Unremarkable.] 
+
+
+
+Uterus/adnexa: [None enlarged fibroid uterus including a 2.4 cm pedunculated hypoenhancing fibroid in the right adnexal region.  Endometrial thickening to 1.0 cm with enhancing endometrium. 
+
+
+Lymph nodes: [No lymphadenopathy.] 
+
+
+
+Peritoneum: [Moderate to large volume ascites.] 
+
+
+
+Bowel: [Mural edema of the ascending colon consistent with portal colopathy.  The bowel is normal in caliber.  The bowel is normal in caliber. 
+
+
+
+Abdominal aorta: [No aneurysm.] 
+
+Inferior vena cava: [Unremarkable.] 
+
+
+
+Abdominal wall: [No hernia.] 
+
+
+
+Osseous structures/soft tissues: [No aggressive bone lesions.  Diffuse soft tissue edema.] 
+
+
+
+Lower chest: [Small to moderate left pleural effusion.] 
+
+IMPRESSION:
+Advanced cirrhosis with marked hepatic steatosis (fat fraction 42%, normal up to 6%). 
+
+No definitive excretion of Eovist in the biliary tree indicating impaired hepatocellular function.
+
+No imaging evidence of hepatocellular carcinoma. 
+
+Findings of portal hypertension include small varices, gallbladder wall thickening, right colonic edema and moderate to large volume ascites. 
+
+Endometrial thickening to 1.0 cm with enhancing endometrium. Correlate for symptoms of postmenopausal bleeding and with tissue sampling.] ",Manual,Manual,Cirrhosis
+16,MR abdomen with and without contrast,"Liver: The liver is enlarged and shows heterogeneous parenchymal attenuation. There are multiple hypodense lesions scattered throughout both lobes of the liver. The largest measures approximately 5.2 cm in segment 7 and another measuring 3.8 cm in segment 4A. These demonstrate peripheral enhancement with central low attenuation on the portal venous phase, concerning for metastases. No prior imaging is available for comparison. There is evidence of portal vein thrombosis involving the right portal vein extending into the main portal vein. This is associated with mild dilation of the intrahepatic biliary ducts within the right lobe. No definite capsular retraction seen. No biliary stent noted.
+
+Portal and hepatic veins: The main portal vein and right portal vein appear occluded with thrombus. The involved segments appear expanded. Left portal vein is open. Hepatic veins are patent but may be compressed by adjacent liver lesions.
+
+Biliary system: Mild dilation of the intrahepatic bile ducts in the right hepatic lobe, likely related to the adjacent metastases and portal vein involvement. The common bile duct is normal in appearance and measures approximately 5 mm.
+
+Gallbladder: Unremarkable. No stones or wall thickening seen.
+
+Pancreas: Normal in size and appearance.
+
+Spleen: Within normal limits.
+
+Adrenal glands: There is a small left adrenal nodule measuring 0.9 cm, indeterminate on this non-contrast study but probably benign such as an adenoma.
+
+Kidneys: No evidence of mass, hydronephrosis, or stones.
+
+Urinary bladder: Normal.
+
+Uterus/adnexa: Normal appearance.
+
+Lymph nodes: A few mildly enlarged lymph nodes noted in the portocaval, peripancreatic, and retroperitoneal areas, with the largest measuring up to 1.5 cm short axis, concerning for possible metastases.
+
+Peritoneum: Trace amount of ascites seen in the pelvis and around the liver.
+
+Bowel: Normal caliber. No evidence of obstruction. No obvious wall thickening.
+
+Abdominal aorta: Normal caliber.
+
+Inferior vena cava: Patent.
+
+Abdominal wall: No abnormalities.
+
+Osseous structures/soft tissues: No destructive bone lesions identified.
+
+Lower chest: Small right pleural effusion present. Scattered atelectasis at the lung bases.
+
+IMPRESSION:
+
+Multiple hypodense hepatic lesions with peripheral rim enhancement and central hypoattenuation, concerning for metastatic disease. Tumor thrombus identified in the right and main portal veins. Mild intrahepatic biliary ductal dilatation in the right lobe likely secondary to mass effect and vascular occlusion.
+
+No prior imaging available for comparison. Primary malignancy unknown; differentials include GI, pancreatic, or colorectal origin.
+
+Several mildly enlarged abdominal and retroperitoneal lymph nodes, concerning for nodal metastases.
+
+Small right pleural effusion and trace ascites, possibly related to hepatic disease.
+
+Incidental small left adrenal nodule, probably benign, such as an adenoma.","Liver: Hepatomegaly with heterogeneous parenchymal attenuation. Multiple hypodense lesions throughout both hepatic lobes, largest measuring 5.2 cm in segment 7 and 3.8 cm in segment 4A, demonstrating peripheral rim enhancement with central hypoattenuation on portal venous phase, consistent with metastatic disease. No prior imaging for comparison. Tumor thrombus is present in the right portal vein extending into the main portal vein, with associated mild intrahepatic biliary ductal dilatation in the right lobe. No definitive hepatic capsular retraction or biliary stent.
+
+Portal and hepatic veins: Main portal vein and right portal vein are occluded by tumor thrombus, with expansion of the vessel lumen. Left portal vein remains patent. Hepatic veins are patent but compressed by adjacent metastatic lesions.
+
+Biliary system: Mild intrahepatic biliary ductal dilatation in the right hepatic lobe, secondary to mass effect from adjacent metastases and portal vein occlusion. Common bile duct is normal in caliber at 5 mm.
+
+Gallbladder: Unremarkable, no stones or wall thickening.
+
+Pancreas: Unremarkable.
+
+Spleen: Normal in size and appearance.
+
+Adrenal glands: Small left adrenal nodule measuring 0.9 cm, indeterminate on non-contrast imaging but likely benign adenoma.
+
+Kidneys: No mass, hydronephrosis, or nephrolithiasis.
+
+Urinary bladder: Unremarkable.
+
+Uterus/adnexa: Normal.
+
+Lymph nodes: Multiple mildly enlarged portocaval, peripancreatic, and retroperitoneal lymph nodes, largest measuring 1.5 cm short axis, suspicious for nodal metastases.
+
+Peritoneum: Trace ascites noted in the perihepatic and pelvic recesses.
+
+Bowel: Normal caliber without obstruction. No abnormal wall thickening.
+
+Abdominal aorta: No aneurysm.
+
+Inferior vena cava: Patent.
+
+Abdominal wall: Unremarkable.
+
+Osseous structures/soft tissues: No aggressive osseous lesions.
+
+Lower chest: Small right pleural effusion. Scattered bibasilar atelectasis.
+
+IMPRESSION:
+
+Multiple hepatic metastases with tumor thrombus involving the right and main portal veins, resulting in mild right intrahepatic biliary ductal dilatation. No prior imaging available for comparison. Findings suggest metastatic disease from an unknown primary malignancy; consider upper GI, pancreaticobiliary, or colorectal origin given pattern.
+
+Multiple mildly enlarged upper abdominal and retroperitoneal lymph nodes, suspicious for nodal metastases.
+
+Small right pleural effusion and trace ascites, likely secondary to hepatic metastatic disease.
+
+Incidental small left adrenal nodule, likely benign adenoma.",ChatGPT,ChatGPT,Metastatic colon cancer
