@@ -1,8 +1,5 @@
 # Radiologist-Scheduling-Agent
-A web application that converts free-form natural-language notes from radiologists into a balanced on-call rotation. Two core components underpin the system:
-
-1. **Large-language-model (LLM) agents** (OpenAI GPT models) — transform narrative notes into structured, machine-readable constraints.  
-2. **CP-SAT optimisation model** (Google OR-Tools) — produces a schedule that satisfies all hard rules and minimises specified soft penalties.
+A web application that analyzes resident and attending reports and provides a categorized feedback of changes to the resident.
 
 ⸻
 
