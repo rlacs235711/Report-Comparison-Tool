@@ -558,6 +558,7 @@ elif not output_type == "--Select--" and not output_agent_style == "--Select--":
     multi_agent_prompts[4] = st.text_area("Prompt Editing – Scale 5 Agent", value = AGENT_PROMPT_5, height = 200)
     multi_agent_prompts[5] = st.text_area("Prompt Editing – Scale 6 Agent", value = AGENT_PROMPT_6, height = 200)
     multi_agent_prompts[6] = st.text_area("Prompt Editing – Scale 7 Agent", value = AGENT_PROMPT_7, height = 200)
+    system_prompt_paragraph_multi = st.text_area("Prompt Editing – Paragraph Agent", value = SYSTEM_PROMPT_PARAGRAPH_MULTI, height = 200)
 
 # --- Text Inputs Side-by-Side ---
 col1, col2 = st.columns(2)
@@ -595,6 +596,9 @@ if st.button("Analyze", disabled=button_disabled):
 
         st.session_state["results"].append({
             "Model": model,
+            "Output Style": output_type,
+            "Single or Multi-Agent": output_agent_style,
+            "Prompt": system_prompt,
             "Resident Note": resident_text.strip(),
             "Attending Note": attending_text.strip(),
             "Output": result.strip(),
@@ -609,7 +613,11 @@ if st.button("Analyze", disabled=button_disabled):
             st.dataframe(df)
     else:
         model_type = model in OLLAMA_MODEL
+        prompt = ""
+        ind = 1
         for agent_prompt in multi_agent_prompts:
+            prompt += f"{ind}:\n{agent_prompt}\n\n"
+            ind += 1
             agent_response = None
             if model_type:
                 agent_response = extract_Ollama(agent_prompt,text,model)
@@ -623,10 +631,11 @@ if st.button("Analyze", disabled=button_disabled):
         if output_setting:
             first_part = ""
             second_part = ""
+            prompt += f"Paragraph Portion Prompt:\n{system_prompt_paragraph_multi}\n\n"
             if model_type:
-                first_part = extract_Ollama(SYSTEM_PROMPT_PARAGRAPH_MULTI,text,model)
+                first_part = extract_Ollama(system_prompt_paragraph_multi,text,model)
             else:
-                first_part = asyncio.run(extract_OpenAI(SYSTEM_PROMPT_PARAGRAPH_MULTI,text,model))
+                first_part = asyncio.run(extract_OpenAI(system_prompt_paragraph_multi,text,model))
             
             first_part = strip_llm_wrappers(first_part)
 
@@ -635,9 +644,11 @@ if st.button("Analyze", disabled=button_disabled):
             
             resp = first_part + second_part
             st.write(resp)
-
             st.session_state["results"].append({
                 "Model": model,
+                "Output Style": output_type,
+                "Single or Multi-Agent": output_agent_style,
+                "Prompt": prompt,
                 "Resident Note": resident_text.strip(),
                 "Attending Note": attending_text.strip(),
                 "Output": resp.strip(),
@@ -647,13 +658,16 @@ if st.button("Analyze", disabled=button_disabled):
 
             st.session_state["results"].append({
                 "Model": model,
+                "Output Style": output_type,
+                "Single or Multi-Agent": output_agent_style,
+                "Prompt": prompt,
                 "Resident Note": resident_text.strip(),
                 "Attending Note": attending_text.strip(),
                 "Output": multi_df.to_csv(index=False).strip(),
             })
 
 # --- Generate download if there is anything to export ---
-export_columns = ["Number", "Model", "Resident Note", "Attending Note", "Output"]
+export_columns = ["Number", "Model", "Output Style", "Single or Multi-Agent", "Prompt", "Resident Note", "Attending Note", "Output"]
 
 if "results" in st.session_state and st.session_state["results"]:
     df_to_save = pd.DataFrame(st.session_state["results"])
